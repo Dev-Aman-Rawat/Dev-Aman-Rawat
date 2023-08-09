@@ -1,4 +1,4 @@
-<h2 align="Center">Hi 👋, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h2 align="Center">Hi 👋, <img src="https://media.tenor.com/x0OZJJFjCRQAAAAS/monkey-pissed.gif" width="40"> </h3>
 <h1 align="center">I'm Aman Rawat</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
