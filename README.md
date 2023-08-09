@@ -7,14 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
 - 🌱 I’m currently learning **MERN stack**
-- 
+
 - 🔭 I’m currently working on **Some Projects**  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif" width="48" height="28">
 
 - 💬 Ask me about **HTML, CSS, JS, React JS etc**
-- 
+  
 - 👨‍💻 All of my projects are available at **Portfolio Coming soon**
-- 
+  
 - 📫 How to reach me **dv451197@gmail.com**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
