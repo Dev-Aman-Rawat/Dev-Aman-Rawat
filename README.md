@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman Rawat</h1>
+<h2 align="Center">Hi 👋, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h1 align="center">I'm Aman Rawat</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aman-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aman-rawat" /> </p>
