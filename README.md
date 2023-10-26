@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Some Projects**  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif" width="48" height="28">
 
-- 💬 Ask me about **HTML, CSS, JS, React JS etc**
+- 💬 Ask me about **React JS & Next JS**
   
 - 👨‍💻 All of my projects are available at **Portfolio Coming soon**
   
