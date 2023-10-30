@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React JS & Next JS**
   
-- 👨‍💻 All of my projects are available at **Portfolio Coming soon**
+- 👨‍💻 All of my projects are available at **Portfolio Building**
   
 - 📫 How to reach me **dv451197@gmail.com**
 <!-- BLOG-POST-LIST:START -->
