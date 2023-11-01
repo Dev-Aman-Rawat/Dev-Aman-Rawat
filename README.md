@@ -46,5 +46,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanr-dev&show_icons=true&locale=en" alt="@amanr-dev" /></p>
 <br />
 <br />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&" alt="MduMine" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&" alt="MMine" /></p>
 
