@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Info:</h3>
-- 🌱 I’m currently learning **MERN stack**
+
+- 🌱 I’m currently learning **Full-stack Web Technologies**
 
 - 🔭 I’m currently working on **Some Projects**  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif" width="48" height="28">
 
