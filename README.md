@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Some Projects**  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif" width="48" height="28">
   
-- 👨‍💻 All of my projects are available at **Portfolio Building**
+- 👨‍💻 All of my projects are available at **Portfolio Building...**
   
 - 📫 How to reach me **dv451197@gmail.com**
 
