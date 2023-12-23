@@ -26,7 +26,6 @@
 <a href="https://dev.to/dev-aman-rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev-aman-rawat" height="30" width="40" /></a>
 <a href="https://twitter.com/amanrdev" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="aman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amanrawat09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22226286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aman" height="30" width="40" /></a>
 <a href="https://instagram.com/_aman._.dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman" height="30" width="40" /></a>
 </p>
 
