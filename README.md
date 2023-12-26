@@ -36,11 +36,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <br/>
 <div align="center" width="auto">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&" alt="MMine" /></p>
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanr-dev&show_icons=true&locale=en" alt="@amanr-dev" /></p>
+<p><img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&" alt="MMine" /></p>
+<p >&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=amanr-dev&show_icons=true&locale=en" alt="@amanr-dev" /></p>
 </div>
   <div align="center">
     
-<p ><img align="center" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanr-dev&show_icons=true&locale=en&layout=compact" alt="Aman Rawat" /></p>
+<p ><img align="center" width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanr-dev&show_icons=true&locale=en&layout=compact" alt="Aman Rawat" /></p>
   </div>
 
