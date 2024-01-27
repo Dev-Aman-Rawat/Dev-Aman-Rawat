@@ -51,5 +51,5 @@
 ### 🔝 Top Contributed Repo
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&limit=10&theme=dracula&combine_all_yearly_contributions=true)
 </div>
