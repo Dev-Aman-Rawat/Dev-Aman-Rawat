@@ -12,9 +12,9 @@
 
 # 💫 About Me:
   
-- 🌱 I’m currently learning **Full-stack Web Technologies**
+- 🌱 I’m currently learning **Astro.build || Svelte**
 
-- 🔭 I’m currently working on **Projects || Contributions** 
+- 🔭 I’m currently bussy in **Building Projects || Contributing to open-source** 
   
 - 👨‍💻 All of my projects are available at **Portfolio Building...**
   
