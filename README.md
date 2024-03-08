@@ -40,11 +40,13 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center"> 
-  
-![](https://github-readme-stats.vercel.app/api?username=amanr-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&theme=dark&hide_border=true)<br/>
+<div align="center" width="100%" height="100%"> 
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&theme=dark&hide_border=true)
+
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanr-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 
