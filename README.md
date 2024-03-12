@@ -40,6 +40,7 @@
 </div>
 
 # 📊 GitHub Stats:
+
 <div align="center" width="100%" height="100%"> 
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&theme=dark&hide_border=true)
@@ -50,7 +51,8 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
+
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&limit=10&theme=dracula&combine_all_yearly_contributions=true)
