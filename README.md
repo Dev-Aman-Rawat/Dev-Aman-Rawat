@@ -37,6 +37,14 @@
    <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="30"/> </a> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/> 
+    <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/09/React-Query-Logo-Vector.svg-.png" alt="react-query" width="100" height="30"/> 
+        <a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://astro.js.org/astro.png" alt="react-query" width="35" height="30"/>
+        <a href="https://react.dev/reference/react/hooks" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" alt="react-query" width="30" height="30"/> 
+        
+        
+    
+    
+    
 </div>
 
 # 📊 GitHub Stats:
