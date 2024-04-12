@@ -6,7 +6,7 @@
 
 # 🤔 About Me:
  <div> 
-   <p> Hi there stranger👋 </p> <p> My name is Aman Rawat, I am a self-taught frontend developer with more than 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
+   <p> Hi there👋 </p> <p> My name is Aman Rawat, I am a self-taught frontend developer with more than 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
  </div>
  
 - ## Where am I busy at?
