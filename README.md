@@ -41,9 +41,6 @@
 ![Node JS](https://img.shields.io/badge/NodeJS-%23000.svg?style=for-the-badge&logo=node.js&logoColor=)
 ![Mongo DB](https://img.shields.io/badge/mongoDB-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=#ffffff)
 ![Prisma.io](https://img.shields.io/badge/prisma.io-%23025175.svg?style=for-the-badge&logo=prisma&logoColor=)
-
-
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Github](https://img.shields.io/badge/Github-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
