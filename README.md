@@ -83,6 +83,7 @@
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanr-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 </div>
 
 
@@ -90,5 +91,6 @@
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&limit=10&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&combine_all_yearly_contributions=true&hide=B,B+&theme=dracula&hide_contributor_rank=false)
+
 </div>
