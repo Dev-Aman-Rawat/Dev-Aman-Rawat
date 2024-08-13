@@ -76,15 +76,15 @@
 
 # 📈 GitHub Stats:
 
-<div align="center" width="100%" height="100%"> 
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&theme=dark&hide_border=true)
-
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanr-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto;">
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanr-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanr-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </div>
 
 </div>
+
 
 
 ## 🔝 Top Contributed Repo:
