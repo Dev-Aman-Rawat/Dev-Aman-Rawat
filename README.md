@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Fullstack**
 
-- 🔭 I’m currently bussy in **Building Projects || Contributing to open-source** 
+- 🔭 I’m currently busy in **Building Projects || Contributing to open-source** 
   
 - 👨‍💻 All of my projects are available at **Portfolio 🚧 || Github **
   
