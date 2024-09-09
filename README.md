@@ -6,7 +6,7 @@
 
 # 🤔 About Me:
  <div> 
-   <p> Hi there👋 </p> <p> My name is Aman Rawat, I am a self-taught frontend developer with more than 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
+   <p> Hi there👋 </p> <p> My name is Dipanshu Rawat, I am a self-taught frontend developer with more than 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
  </div>
  
 - ## Where am I busy at?
@@ -26,8 +26,8 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aman._.dev_)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000.svg?logo=X&logoColor=white)](https://twitter.com/amanrdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanrawat09)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dev-aman-rawat) 
+[![Twitter](https://img.shields.io/badge/Twitter-%23000.svg?logo=X&logoColor=white)](https://twitter.com/dipanshurdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipanshurdev)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dev-aman-rawat) 
 </div>
 
 # 🗡️ My Tools:
