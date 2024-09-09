@@ -78,6 +78,6 @@
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=amanr-dev&limit=10&hide=B,B+&theme=radical&hide_contributor_rank=false)
+![](https://github-contributor-stats.vercel.app/api?username=dipanshurdev&limit=10&hide=B,B+&theme=radical&hide_contributor_rank=false)
 
 </div>
