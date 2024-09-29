@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently busy in **Building Projects || Contributing to open-source** 
   
-- 👨‍💻 All of my projects are available at **Portfolio 🚧 || Github **
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://dipanshurdev.netlify.app/) Or There ⬇️**
   
 - 📫 What's my Email **dv451197@gmail.com**
   
