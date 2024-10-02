@@ -6,12 +6,12 @@
 
 # 🤔 About Me:
  <div> 
-   <p> Hi there👋 </p> <p> My name is Dipanshu Rawat, I am a self-taught frontend developer with over 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
+   <p> Hi there👋 </p> <p> My name is Dipanshu Rawat, I am a self-taught fullstack developer with over 2 years of experience. My coding journey commenced with FreeCodeCamp, a platform where I not only mastered Frontend Development but also earned additional certificates to augment my skills. Currently, I am focused on expanding my skills and knowledge. I am also contributing to the open-source community. </p> 
  </div>
  
 - ## Where am I busy at?
 
-- 🌱 I’m currently learning **Fullstack**
+- 🌱 I’m currently learning **New Technologies**
 
 - 🔭 I’m currently busy in **Building Projects || Contributing to open-source** 
   
