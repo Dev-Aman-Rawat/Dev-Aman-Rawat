@@ -6,7 +6,7 @@
 
 # 🤔 About Me:
  <div> 
-   <p> Hi there👋 </p> <p> I'm Dipanshu Rawat, a self-taught Full-Stack Developer with over 2 years of experience. My coding journey began with FreeCodeCamp, where I mastered frontend development and earned multiple certifications to enhance my skill set. I specialize in building intuitive user experiences with React.js, Next.js, and modern technologies, while also working on backend solutions with Node.js, appwrite, Express, and MongoDB.
+   <p> Hi there👋 </p> <p> I'm Dipanshu Rawat, a Full-Stack Developer with over 2 years of experience. My coding journey began with FreeCodeCamp, where I mastered frontend development and earned multiple certifications to enhance my skill set. I specialize in building intuitive user experiences with React.js, Next.js, and modern technologies, while also working on backend solutions with Node.js, appwrite, Express, and MongoDB.
 I love creating impactful projects, contributing to the open-source community, and exploring cutting-edge tech trends. When I’m not coding, you’ll likely find me diving into new frameworks, engaging with tech communities on Twitter and LinkedIn, or enjoying a cup of tea ☕. </p> 
  </div>
  
