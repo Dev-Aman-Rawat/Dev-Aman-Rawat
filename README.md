@@ -32,7 +32,7 @@ I love creating impactful projects, contributing to the open-source community, a
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dev-aman-rawat) 
 </div>
 
-# 🗡️ My Tools:
+# ⚛️ My Tools:
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -76,7 +76,7 @@ I love creating impactful projects, contributing to the open-source community, a
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=for-the-badge&logo=redux)          
 </div>
 
-## 🔝 Some Contributed Repos:
+## 🔝 Top Contributed Repos:
 
 <div align="center">
   
