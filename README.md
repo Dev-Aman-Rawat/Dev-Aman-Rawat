@@ -76,7 +76,7 @@ I love creating impactful projects, contributing to the open-source community, a
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=for-the-badge&logo=redux)          
 </div>
 
-## 🔝 Top Contributed Repos:
+## 🔝 Top Contributed Repositories:
 
 <div align="center">
   
